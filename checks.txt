@@ -1,0 +1,12 @@
+0d2fcf787026fece4e57be167d079383_lung - fail
+0d941a3ad6c889ac451caf89c46cb92a_lung - too much
+1e0f8048728717064645cb758eb89279_lung - fail
+2d81a9e760a07b25903a8c4aeb444eca_lung - fail
+2eb8aedb5274414e05041b7be65db3e3_lung - fail
+3c5a0fc6890a1f84211cf8a75c1b83c4_lung - fail
+1030bb45e9f660c3466f013dcb270520_lung - interesting
+10f03fe0b77d39c758d6fb12304edfdb_lung - fail
+6a145c28d3b722643f547dfcbdf379ae_lung - no good
+7239b3a904f39b25c4e303c10a24621a_lung - fail
+91d0606b85ab7dbc7bab718c1312f2df_lung - fail
+9a3174ffe867f602ee82c512a01420ee_lung - interesting
